@@ -1,5 +1,10 @@
 buenos dias
 hoy es dia 28 de octubre
+<<<<<<< HEAD
 es lunes
 segundo error
 holaa
+=======
+es lunes 
+posible error 
+>>>>>>> master
